@@ -1,0 +1,16 @@
+{
+  "platforms": [
+    { "name": "GitHub",      "url": "https://github.com/{}" },
+    { "name": "Twitter/X",   "url": "https://twitter.com/{}" },
+    { "name": "Reddit",      "url": "https://www.reddit.com/user/{}" },
+    { "name": "Instagram",   "url": "https://www.instagram.com/{}" },
+    { "name": "LinkedIn",    "url": "https://www.linkedin.com/in/{}" },
+    { "name": "HackerNews",  "url": "https://news.ycombinator.com/user?id={}" },
+    { "name": "Dev.to",      "url": "https://dev.to/{}" },
+    { "name": "Medium",      "url": "https://medium.com/@{}" },
+    { "name": "GitLab",      "url": "https://gitlab.com/{}" },
+    { "name": "Keybase",     "url": "https://keybase.io/{}" },
+    { "name": "ProductHunt", "url": "https://www.producthunt.com/@{}" },
+    { "name": "Steam",       "url": "https://steamcommunity.com/id/{}" }
+  ]
+}

@@ -1,0 +1,8 @@
+flask
+requests
+python-whois
+Pillow
+python-docx
+colorama
+tabulate
+jinja2
