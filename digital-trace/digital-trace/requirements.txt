@@ -6,3 +6,4 @@ python-docx
 colorama
 tabulate
 jinja2
+gunicorn
