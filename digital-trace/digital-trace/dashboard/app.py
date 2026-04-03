@@ -77,7 +77,3 @@ if __name__ == "__main__":
     print("\n🔍 DigitalTrace Dashboard starting...")
     print(f"   Open: http://{FLASK_HOST}:{FLASK_PORT}\n")
     app.run(host=FLASK_HOST, port=FLASK_PORT, debug=FLASK_DEBUG)
-```
-
----
-
