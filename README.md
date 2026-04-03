@@ -16,6 +16,9 @@ This tool is for:
 
 ---
 
+Username: admin
+Password: admin
+
 ## 🧠 Features
 
 | Module | Description | API Required? |
